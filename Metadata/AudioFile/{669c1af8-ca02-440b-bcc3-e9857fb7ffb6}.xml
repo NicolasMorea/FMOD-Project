@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.03.00">
+	<object class="AudioFile" id="{669c1af8-ca02-440b-bcc3-e9857fb7ffb6}">
+		<property name="assetPath">
+			<value>swing-whoosh-110410.mp3</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>44.0999985</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>0.36571428571428571</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{2dcb6d98-4bcc-4b16-8b8b-24f398821f25}</destination>
+		</relationship>
+	</object>
+</objects>

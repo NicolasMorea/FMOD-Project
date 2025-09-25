@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.03.00">
+	<object class="AudioFile" id="{41c4c1d6-68ea-4441-850f-6a51a2af445e}">
+		<property name="assetPath">
+			<value>glitched-sine-59841.mp3</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>44.0999985</value>
+		</property>
+		<property name="channelCount">
+			<value>1</value>
+		</property>
+		<property name="length">
+			<value>1.0448979591836736</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{2dcb6d98-4bcc-4b16-8b8b-24f398821f25}</destination>
+		</relationship>
+	</object>
+</objects>

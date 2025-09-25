@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.03.00">
+	<object class="AudioFile" id="{ab00bddb-2b5f-4816-a052-dd60a4a5cfcc}">
+		<property name="assetPath">
+			<value>goopy-slime-20-229635.mp3</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>48</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>1.2</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{2dcb6d98-4bcc-4b16-8b8b-24f398821f25}</destination>
+		</relationship>
+	</object>
+</objects>
