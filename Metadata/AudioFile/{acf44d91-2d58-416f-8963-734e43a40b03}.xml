@@ -2,7 +2,7 @@
 <objects serializationModel="Studio.02.03.00">
 	<object class="AudioFile" id="{acf44d91-2d58-416f-8963-734e43a40b03}">
 		<property name="assetPath">
-			<value>slime-splatter-3-220268.mp3</value>
+			<value>Hits/slime-splatter-3-220268.mp3</value>
 		</property>
 		<property name="frequencyInKHz">
 			<value>48</value>

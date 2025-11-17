@@ -2,7 +2,7 @@
 <objects serializationModel="Studio.02.03.00">
 	<object class="AudioFile" id="{de833460-0ebb-4f33-86cb-5598e00a8f9a}">
 		<property name="assetPath">
-			<value>near-miss-swing-whoosh-17-233441.mp3</value>
+			<value>Player/near-miss-swing-whoosh-17-233441.mp3</value>
 		</property>
 		<property name="frequencyInKHz">
 			<value>48</value>

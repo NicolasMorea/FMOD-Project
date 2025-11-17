@@ -2,7 +2,7 @@
 <objects serializationModel="Studio.02.03.00">
 	<object class="AudioFile" id="{e6d5e65c-75d9-444c-b2d4-a9089f71fe86}">
 		<property name="assetPath">
-			<value>jump-climb-or-damage-sound-f-95942.mp3</value>
+			<value>Player/jump-climb-or-damage-sound-f-95942.mp3</value>
 		</property>
 		<property name="frequencyInKHz">
 			<value>24</value>

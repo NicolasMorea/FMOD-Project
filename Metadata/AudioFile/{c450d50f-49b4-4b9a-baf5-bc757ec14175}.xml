@@ -2,7 +2,7 @@
 <objects serializationModel="Studio.02.03.00">
 	<object class="AudioFile" id="{c450d50f-49b4-4b9a-baf5-bc757ec14175}">
 		<property name="assetPath">
-			<value>complex-movements-whoosh-3-239354.mp3</value>
+			<value>Player/complex-movements-whoosh-3-239354.mp3</value>
 		</property>
 		<property name="frequencyInKHz">
 			<value>48</value>

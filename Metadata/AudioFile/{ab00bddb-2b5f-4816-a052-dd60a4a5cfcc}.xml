@@ -2,7 +2,7 @@
 <objects serializationModel="Studio.02.03.00">
 	<object class="AudioFile" id="{ab00bddb-2b5f-4816-a052-dd60a4a5cfcc}">
 		<property name="assetPath">
-			<value>goopy-slime-20-229635.mp3</value>
+			<value>Hits/goopy-slime-20-229635.mp3</value>
 		</property>
 		<property name="frequencyInKHz">
 			<value>48</value>

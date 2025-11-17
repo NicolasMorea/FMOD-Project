@@ -2,7 +2,7 @@
 <objects serializationModel="Studio.02.03.00">
 	<object class="AudioFile" id="{042975f9-f229-4d48-ac86-6588953f3c07}">
 		<property name="assetPath">
-			<value>577020__nezuai__ui-sound-1.wav</value>
+			<value>UI/577020__nezuai__ui-sound-1.wav</value>
 		</property>
 		<property name="frequencyInKHz">
 			<value>48</value>

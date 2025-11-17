@@ -2,7 +2,7 @@
 <objects serializationModel="Studio.02.03.00">
 	<object class="AudioFile" id="{184e0b51-a68c-427b-8685-2c3df3129a18}">
 		<property name="assetPath">
-			<value>Vidéo sans titre ‐ Réalisée avec Clipchamp (1).mp3</value>
+			<value>Musics/Rain.mp3</value>
 		</property>
 		<property name="isStreaming">
 			<value>true</value>

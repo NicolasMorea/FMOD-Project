@@ -2,7 +2,7 @@
 <objects serializationModel="Studio.02.03.00">
 	<object class="AudioFile" id="{15cc7d72-8088-433d-9ca4-565393e506b8}">
 		<property name="assetPath">
-			<value>scifi-anime-whoosh-59-205276.mp3</value>
+			<value>Player/scifi-anime-whoosh-59-205276.mp3</value>
 		</property>
 		<property name="frequencyInKHz">
 			<value>48</value>

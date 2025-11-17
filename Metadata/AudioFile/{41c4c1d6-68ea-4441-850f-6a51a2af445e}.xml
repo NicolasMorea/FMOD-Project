@@ -2,7 +2,7 @@
 <objects serializationModel="Studio.02.03.00">
 	<object class="AudioFile" id="{41c4c1d6-68ea-4441-850f-6a51a2af445e}">
 		<property name="assetPath">
-			<value>glitched-sine-59841.mp3</value>
+			<value>Player/glitched-sine-59841.mp3</value>
 		</property>
 		<property name="frequencyInKHz">
 			<value>44.0999985</value>
