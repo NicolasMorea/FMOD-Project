@@ -1,0 +1,18 @@
+# Build output (generated banks)
+Build/
+
+# Cache files (large, regenerated automatically)
+.metadata/
+.cache/
+
+# Autosaves + Unsaved work files
+Autosave/
+*.unsaved
+
+# Generated backup/session crash files
+*.backup
+*.bak
+*.temp
+
+# User-specific settings
+*.user
